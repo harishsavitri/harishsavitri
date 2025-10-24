@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm HARISH GUDIPUDI </h1>
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
+## Catch up with me here! <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
 
-
-
+## About me: 🚀
 
 - 🌱 I’m currently learning **DevOps Technologies**
 
