@@ -29,3 +29,20 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-eegala&show_icons=true&locale=en&layout=compact" alt="rajesh-eegala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-eegala&" alt="rajesh-eegala" /></p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lovaraj02&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovaraj02&layout=compact&theme=radical)
+
+---
+
+## ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🐍 Snake Eating My Contributions
+![snake gif](https://raw.githubusercontent.com/Lovaraj02/Lovaraj02/output/github-contribution-grid-snake.svg)
+
+
+
+
+⭐️ From [Lovaraj02](https://github.com/Lovaraj02)
