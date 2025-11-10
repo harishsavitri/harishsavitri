@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gudiputiharish@gmail.com**
 
-- 📄 Know about my experiences here - [Resume Link](https://1drv.ms/w/c/7a5d4e694f0f523a/EVTAx1pWemdHgmKrYODa2l8BqhYYasNrKSZizz1LKeMv_A?e=TPXBjV)
+- 📄 Know about my experiences here - [Resume Link](https://1drv.ms/b/c/7a5d4e694f0f523a/EaRzNYlvcn1OsZhHJdHNZIMBSeyEBYriJH2F3iUTVpAOeQ?e=HohRaK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
