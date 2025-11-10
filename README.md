@@ -7,13 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
-- 🔭 I’m currently **learning GoLang, Kubernetes**
-- 📝 I regularly write articles on **Various DevOps Concepts**
-
-- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
-
-- ⚡ Fun fact **"If you're waiting for the waiter, does that make you the waiter!!!"**
-
 ## About me: 🚀
 
 - 🌱 I’m currently learning **DevOps Technologies**
