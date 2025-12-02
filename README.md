@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
 ## Catch up with me here! <p align = "left"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px" /></p>
 <h3 align="center">AWS Community Builder | DevOps Engineer | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQFbSLaf-D8uPA/feedshare-shrink_2048_1536/B56ZptyC4qJkA0-/0/1762778436688?e=1764201600&v=beta&t=Uml1jxdY-odTtENxEDqAOPbnXden_WVuTO4Eq0PP3J8" >
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQFbSLaf-D8uPA/feedshare-shrink_800/B56ZptyC4qJkAk-/0/1762778436635?e=1766016000&v=beta&t=58tmwg1IUolELvPDO1FIdGO3d1bK1FY7Of1-qz-_DaQ" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
